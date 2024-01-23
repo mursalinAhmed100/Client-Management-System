@@ -1,8 +1,2 @@
-# It is a basic CRM Software for managing Clients
-### It is an on-going project
-### Current Features:
-* Adding and managing clients
-* Creating meetings with clients
-* Sorting client list and client meetings by date and time
-* Downloading client data as Excel file
-* Uploading client data as Excel File etc.
+# Client_Management_System
+Client Management System is software application which is used to manage a company's interaction with current and potential clients. Client management system is an automatic system which delivers data processing in very high speed in systematic manner. In Client Management System we use PHP and MySQL Database. This project keeps the records of clients. Client Management System has two module i.e. admin and client. Well-structured organization is founded by an organized management system. For a stable well-functioning company, they need to have a good relationship with their clients. For providing the best experience and support, client management is the best option. Our client Management System (CMS) is an established concept which is used to manage client life cycle through various technologies and process oriented tools. This study identifies how web applications can be utilized for improved client management and to understand the potential of web application in the business environment.
